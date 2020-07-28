@@ -1270,6 +1270,10 @@ body * {
     height: 50px;
   }
 
+  .header__menu .menu__link--active {
+    color: #f1cdb3;
+  }
+
   .menu {
     overflow: auto;
     position: fixed;
@@ -1325,10 +1329,6 @@ body * {
 
   .menu__item {
     margin: 0 0 20px 0;
-  }
-
-  .menu__link--active {
-    color: #f1cdb3;
   }
 
   .menu__link:after {
