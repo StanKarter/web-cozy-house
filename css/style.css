@@ -561,18 +561,6 @@ img {
           transform: perspective(600px) translate(0px, -100%) rotateX(45deg);
 }
 
-/* .popup-window::-webkit-scrollbar {
-  width: 0;
-}
-
-.popup-window {
-  -ms-overflow-style: none;
-}
-
-.popup-window {
-  scrollbar-width: none;
-} */
-
 .pets-card {
   background-color: #fafafa;
   border: 1px solid #fff;
